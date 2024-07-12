@@ -1,0 +1,1 @@
+export { default as BibleArt } from 'BibleArt';

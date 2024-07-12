@@ -1,0 +1,13 @@
+export { default as Bibleflip } from './Bibleflip.jpg';
+export { default as Bibleleaf } from './Bibleleaf.jpg';
+export { default as Bluecross } from './Bluecross.jpg';
+export { default as countryBible } from './countryBible.jpg';
+export { default as faith } from './faith.jpg';
+export { default as faithfear } from "./faithfear.jpg";
+export { default as icon_bible } from './icon_bible.png';
+export { default as identify } from './identify.jpg';
+export { default as OnlyJesus } from './OnlyJesus.jpg';
+export { default as Risen } from './Risen.jpg';
+export { default as Theleap } from "./Theleap.jpg";
+export { default as thornycrown } from './thornycrown.jpg';
+export { default as Theway } from "./Theway.jpg";
