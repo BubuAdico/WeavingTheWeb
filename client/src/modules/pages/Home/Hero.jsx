@@ -1,6 +1,6 @@
-import Discover from "../Discover/Discover";
 import gsap from "gsap";
 import { useGSAP } from "@gsap/react";
+import { Discover, DiscoverSmall } from "../Discover";
 
 const Hero = ({verses}) => {
 	useGSAP(() => {
@@ -50,6 +50,7 @@ const Hero = ({verses}) => {
 			</div>
 
 			<Discover />
+			<DiscoverSmall />
 		</>
 	);
 };

@@ -9,7 +9,7 @@ const data = [
 		numberOfDays: 31,
 		title: "The Bible explained | Real insight. Real Jesus",
 		img: Bibleflip,
-		desc: "Get to complete both testaments in the bible in no time",
+		desc: "Get to complete both testaments in the",
 	},
 	{
 		id: 2,
@@ -30,7 +30,7 @@ const data = [
 		numberOfDays: 10,
 		title: "The walking Bible",
 		img: faithfear,
-		desc: "Memorize the bible quickly by following and reading this plan",
+		desc: "Memorize the bible quickly by following",
 	},
 	{
 		id: 5,
@@ -44,7 +44,7 @@ const data = [
 		numberOfDays: 31,
 		title: "The Bible explained | Real insight. Real Jesus",
 		img: Bibleflip,
-		desc: "Get to complete both testaments in the bible in no time",
+		desc: "Get to complete both testaments in the",
 	},
 	{
 		id: 7,
@@ -65,7 +65,7 @@ const data = [
 		numberOfDays: 10,
 		title: "The walking Bible",
 		img: faithfear,
-		desc: "Memorize the bible quickly by following and reading this plan",
+		desc: "Memorize the bible quickly by following",
 	},
 	{
 		id: 10,
@@ -79,7 +79,7 @@ const data = [
 		numberOfDays: 31,
 		title: "The Bible explained | Real insight. Real Jesus",
 		img: Bibleflip,
-		desc: "Get to complete both testaments in the bible in no time",
+		desc: "Get to complete both testaments in the bibl",
 	},
 	{
 		id: 12,
@@ -100,13 +100,13 @@ const data = [
 		numberOfDays: 10,
 		title: "The walking Bible",
 		img: faithfear,
-		desc: "Memorize the bible quickly by following and reading this plan",
+		desc: "Memorize the bible quickly by following",
 	},
 	{
 		id: 15,
 		numberOfDays: 15,
 		title: "The Reflection | Identity",
-		desc: "Get to know who you are after being born again",
+		desc: "Get to know who you are after",
 		img: identify,
 	},
 ];
